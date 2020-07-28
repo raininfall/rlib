@@ -5,6 +5,9 @@ build/
 # Xmake project
 vsxmake*/
 
+# Nodejs
+node_modules/
+
 # MacOS Cache
 .DS_Store
 
